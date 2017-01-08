@@ -8,4 +8,4 @@
 
 05.用滑鼠點兩下『run.bat』執行轉檔，此時畫面出現類似如圖四
 
-PS 新增mp4tomp3.bat和cutmp3.bat 是為了要將mp4轉mp3之後再將mp3分段的一整套
+PS 新增mp4tomp3.bat和cutmp3.bat 是為了要將mp4轉mp3之後再將mp3分段的一整套小工具 (2017/01/08)
