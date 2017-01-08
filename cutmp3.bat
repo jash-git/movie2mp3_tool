@@ -13,6 +13,6 @@ REM 10=從第10秒開始
 set start_time=385
 
 REM 60=從起始時間之後要保留60秒
-set len_time=53
+set len_time=60
 
 ffmpeg.exe -ss %start_time% -i %inputfile% -acodec libmp3lame -ar 44100 -ab 128k -t %len_time% %outputfile%
